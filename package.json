@@ -1,0 +1,17 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "a collection of katas for the ibl. Each have tests written and will periodically be updated with new katas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ben Symons",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.1"
+  }
+}

@@ -4,7 +4,7 @@
   "description": "a collection of katas for the ibl. Each have tests written and will periodically be updated with new katas",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "tsc index.ts && jest"
   },
   "author": "Ben Symons",
   "license": "ISC",

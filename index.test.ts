@@ -1,4 +1,4 @@
-const compass = require("./index")
+const compass = require("./index.js")
 
 describe('compass tests', () => {
     test('Will return the initial direction if no turns are made', () => {
